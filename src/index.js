@@ -1,3 +1,3 @@
 console.log("sddd");
 let b = {};
-while (true) {}
+b.name = "Barak";
